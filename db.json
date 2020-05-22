@@ -1,0 +1,50 @@
+{
+    "products":[
+        {
+           "image":"1.jpg",
+           "name":"EdenFantasys personal lubricant",
+           "available":true,
+           "oldPrice":14.99,
+           "price":7.50,
+           "article":"T1"
+        },
+        {
+           "image":"2.jpg",
+           "name":"JO H2O lubricant",
+           "available":false,
+           "oldPrice":13.99,
+           "price":11.89,
+           "article":"T2"
+        },
+        {
+           "image":"3.jpg",
+           "name":"The original anal-ese",
+           "available":true,
+           "oldPrice":8.99,
+           "price":7.64,
+           "article":"T3"
+        },
+        {
+           "image":"4.jpg",
+           "name":"Jelle",
+           "available":true,
+           "price":14.99,
+           "article":"T4"
+        },
+        {
+           "image":"5.jpg",
+           "name":"JO H2O flavored lubricant",
+           "available":true,
+           "oldPrice":18.99,
+           "price":15.19,
+           "article":"T5"
+        },
+        {
+           "image":"6.jpg",
+           "name":"K-Y jelly personal lubricant",
+           "available":true,
+           "price":9.99,
+           "article":"T6"
+        }
+     ]
+}
